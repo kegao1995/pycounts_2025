@@ -2,6 +2,8 @@
 
 Calculate word counts in a text file!
 
+[![codecov](https://codecov.io/github/kegao1995/pycounts_2025/graph/badge.svg?token=5B2YA0S6ZZ)](https://codecov.io/github/kegao1995/pycounts_2025)
+
 ## Installation
 
 ```bash
